@@ -1,7 +1,6 @@
 ## Getting Started
 
-Project for Token Transfer video on YouTube: (https://youtu.be/Eue8r1FjNqo)
-
+Project for Token Transfer of College Credits
 Project uses Chakra UI:
 ```bash
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
@@ -11,7 +10,6 @@ or
 yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
 On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
 [UI Components](https://portal.thirdweb.com/ui-components) to work.
