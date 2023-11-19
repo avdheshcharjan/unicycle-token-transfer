@@ -8,7 +8,7 @@ or
 ```bash
 yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
-
+Make sure you put your private key in ```PRIVATE_KEY``` in the ```.env``` file.
 
 On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
 [UI Components](https://portal.thirdweb.com/ui-components) to work.
