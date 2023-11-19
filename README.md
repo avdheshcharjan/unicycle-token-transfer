@@ -1,7 +1,6 @@
 ## Getting Started
 
-Project for Token Transfer of College Credits
-Project uses Chakra UI:
+Project for Token Transfer of College Credits uses Chakra UI:
 ```bash
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
